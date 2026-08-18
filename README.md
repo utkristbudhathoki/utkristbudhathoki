@@ -14,24 +14,24 @@
 
 ---
 
-## 👨 About Me
+##  About Me
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 I'm **Utkrist Budhathoki**, a passionate **Full-Stack Developer** focused on building scalable, performant applications.
 
-* 🌱 Deepening knowledge in **advanced TypeScript**, **system design** & **architecture**
-* 👯 Looking to collaborate on **open-source developer tools** and **productivity projects**
-* 💬 Ask me about **JavaScript/TypeScript**, **Node.js**, **React/Next.js**, **Docker**
-* ⚡ Focused on **clean architecture & user experience**
+*  Deepening knowledge in **advanced TypeScript**, **system design** & **architecture**
+*  Looking to collaborate on **open-source developer tools** and **productivity projects**
+*  Ask me about **JavaScript/TypeScript**, **Node.js**, **React/Next.js**, **Docker**
+*  Focused on **clean architecture & user experience**
 
 <br clear="right"/>
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
-#### 🎨 Frontend
+####  Frontend
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -52,13 +52,13 @@ I'm **Utkrist Budhathoki**, a passionate **Full-Stack Developer** focused on bui
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-#### 🚀 DevOps & Cloud
+####  DevOps & Cloud
 <p>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> 
 </p>
 
-#### 🧰 Tools & Platforms
+####  Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -68,7 +68,7 @@ I'm **Utkrist Budhathoki**, a passionate **Full-Stack Developer** focused on bui
 
 ---
 
-### 🔥 GitHub Stats & Activity
+###  GitHub Stats & Activity
 <br/>
 
 <div align="center">
@@ -86,7 +86,7 @@ I'm **Utkrist Budhathoki**, a passionate **Full-Stack Developer** focused on bui
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
 <div align="center">
   <a href="https://x.com/u_budhathoki"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
