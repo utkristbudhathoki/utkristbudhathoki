@@ -3,7 +3,7 @@ I'm **Utkrist Budhathoki**, a passionate **Full-Stack Developer** focused on bui
 *  Deepening knowledge in **advanced TypeScript**, **system design** & **architecture**
 *  Looking to collaborate on **open-source developer tools** and **productivity projects**
 *  Ask me about **JavaScript/TypeScript**, **Node.js**, **React/Next.js**, **Docker**
-*  Focused on **clean architecture & user experience**
+*  Focused on **clean architecture & user experiences**
 
 <br clear="right"/>
 
